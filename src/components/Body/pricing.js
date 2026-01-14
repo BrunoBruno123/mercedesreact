@@ -26,7 +26,7 @@ const pricing = () => {
 			  </ListGroup>
 			   <Card.Body>
                 <div className="d-flex justify-content-center">
-				<Button variant="primary">Order</Button>
+				<Button variant="primary">Buy Here</Button>
                 </div>
 			  </Card.Body>
 			</Card>
@@ -47,7 +47,7 @@ const pricing = () => {
 			  </ListGroup>
 			  <Card.Body>
                 <div className="d-flex justify-content-center">
-				<Button variant="primary">Order</Button>
+				<Button variant="primary">Buy Here</Button>
                 </div>
 			  </Card.Body>
 			</Card>
@@ -68,7 +68,7 @@ const pricing = () => {
 			  </ListGroup>
 			  <Card.Body>
                 <div className="d-flex justify-content-center">
-				<Button variant="primary">Order</Button>
+				<Button variant="primary">Buy Here</Button>
                 </div>
 			  </Card.Body>
 			</Card>
