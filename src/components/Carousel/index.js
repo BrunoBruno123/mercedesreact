@@ -6,6 +6,7 @@ import third from '../../images/car9.png';
 
 function CarouselFadeExample() {
   return (
+    <div className="w-75 m-auto mt-4 mb-4">
      <Carousel>
             <Carousel.Item>
                 <img src={first} text="First slide" alt='First slide' className='w-100' />
@@ -29,6 +30,7 @@ function CarouselFadeExample() {
                 </Carousel.Caption>
             </Carousel.Item>
         </Carousel>
+        </div>
   );
 }
 

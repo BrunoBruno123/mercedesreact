@@ -32,7 +32,6 @@ const pricing = () => {
 			</Card>
 			
 			
-			
 			<Card style={{ width: '18rem' }}>
 			  <Card.Img variant="top" src={car8} style={{ width: '100%', padding: '10px' }} />
 			  <Card.Body>
