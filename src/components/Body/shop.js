@@ -19,7 +19,7 @@ const bodyz = () => {
                         G Class e tipit mercedes-benz eshte nje SUV luksoz me kater rrota terheqese i prodhuar nga prodhuesi gjerman i makinave Mercedes-Benz.
                     </p>
                     <div className="d-flex justify-content-center">
-                        <Button variant="secondary">Order</Button>
+                        <Button variant="secondary" href='/pricing'>Order</Button>
                     </div> 
                 </Col>
                 <Col xs={12} md={4} lg={4}>
@@ -33,7 +33,7 @@ const bodyz = () => {
                         A Class e tipit mercedes-benz eshte nje makine kompakte me pese dyer e prodhuar nga prodhuesi gjerman i makinave Mercedes-Benz.
                     </p>
                     <div className="d-flex justify-content-center">
-                        <Button variant="secondary">Order</Button>
+                        <Button variant="secondary" href='/pricing'>Order</Button>
                     </div>
                 </Col>
                 <Col xs={12} md={4} lg={4}>
@@ -47,7 +47,7 @@ const bodyz = () => {
                         B Class e tipit mercedes-benz eshte nje makine kompakte me pese dyer me nje dizajn monovolumeni te prodhuar nga prodhuesi gjerman i makinave Mercedes-Benz.
                     </p>
                     <div className="d-flex justify-content-center">
-                        <Button variant="secondary">Order</Button>
+                        <Button variant="secondary" href='/pricing'>Order</Button>
                     </div>
                 </Col>
                 <Col xs={12} md={4} lg={4}>
@@ -61,7 +61,7 @@ const bodyz = () => {
                         G Class e tipit mercedes-benz eshte nje SUV luksoz me kater rrota terheqese i prodhuar nga prodhuesi gjerman i makinave Mercedes-Benz.
                     </p>
                     <div className="d-flex justify-content-center">
-                        <Button variant="secondary">Order</Button>
+                        <Button variant="secondary" href='/pricing'>Order</Button>
                     </div> 
                 </Col>
                 <Col xs={12} md={4} lg={4}>
@@ -75,7 +75,7 @@ const bodyz = () => {
                         A Class e tipit mercedes-benz eshte nje makine kompakte me pese dyer e prodhuar nga prodhuesi gjerman i makinave Mercedes-Benz.
                     </p>
                     <div className="d-flex justify-content-center">
-                        <Button variant="secondary">Order</Button>
+                        <Button variant="secondary" href='/pricing'>Order</Button>
                     </div>
                 </Col>
                 <Col xs={12} md={4} lg={4}>
@@ -89,7 +89,7 @@ const bodyz = () => {
                         B Class e tipit mercedes-benz eshte nje makine kompakte me pese dyer me nje dizajn monovolumeni te prodhuar nga prodhuesi gjerman i makinave Mercedes-Benz.
                     </p>
                     <div className="d-flex justify-content-center">
-                        <Button variant="secondary">Order</Button>
+                        <Button variant="secondary" href='/pricing'>Order</Button>
                     </div>
                 </Col>
             </Row>

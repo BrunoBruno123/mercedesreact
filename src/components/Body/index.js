@@ -20,7 +20,7 @@ const HomeBody = () => {
                         G Class e tipit mercedes-benz eshte nje SUV luksoz me kater rrota terheqese i prodhuar nga prodhuesi gjerman i makinave Mercedes-Benz.
                     </p>
                     <div className="d-flex justify-content-center">
-                        <Button variant="secondary">Order</Button>
+                        <Button variant="secondary" href='/shop'>View Shop</Button>
                     </div> 
                 </Col>
                 <Col xs={12} md={4} lg={4}>
@@ -34,7 +34,7 @@ const HomeBody = () => {
                         A Class e tipit mercedes-benz eshte nje makine kompakte me pese dyer e prodhuar nga prodhuesi gjerman i makinave Mercedes-Benz.
                     </p>
                     <div className="d-flex justify-content-center">
-                        <Button variant="secondary">Order</Button>
+                        <Button variant="secondary" href='/shop'>View Shop</Button>
                     </div>
                 </Col>
                 <Col xs={12} md={4} lg={4}>
@@ -48,7 +48,7 @@ const HomeBody = () => {
                         B Class e tipit mercedes-benz eshte nje makine kompakte me pese dyer me nje dizajn monovolumeni te prodhuar nga prodhuesi gjerman i makinave Mercedes-Benz.
                     </p>
                     <div className="d-flex justify-content-center">
-                        <Button variant="secondary">Order</Button>
+                        <Button variant="secondary" href='/shop'>View Shop</Button>
                     </div>
                 </Col>
             </Row>
