@@ -17,7 +17,7 @@ const HomeBody = () => {
                         G Class
                     </h2> 
                     <p>
-                        G Class e tipit mercedes-benz është një SUV luksoz me katër rrota tërheqëse i prodhuar nga prodhuesi gjerman i makinave Mercedes-Benz.
+                        G Class e tipit mercedes-benz eshte nje SUV luksoz me kater rrota terheqese i prodhuar nga prodhuesi gjerman i makinave Mercedes-Benz.
                     </p>
                     <div className="d-flex justify-content-center">
                         <Button variant="secondary">Order</Button>
@@ -28,10 +28,10 @@ const HomeBody = () => {
                         <img src={car8} alt="B Class" className="rounded-circle w-50"/>
                     </div>
                     <h2 className="text-center">
-                        B Class
+                        A Class
                     </h2>
                     <p>
-                        B class e tipit mercedes-benz është një makinë kompakte me pesë dyer me një dizajn monovolumeni të prodhuar nga prodhuesi gjerman i makinave Mercedes-Benz.
+                        A Class e tipit mercedes-benz eshte nje makine kompakte me pese dyer e prodhuar nga prodhuesi gjerman i makinave Mercedes-Benz.
                     </p>
                     <div className="d-flex justify-content-center">
                         <Button variant="secondary">Order</Button>
@@ -42,10 +42,10 @@ const HomeBody = () => {
                         <img src={car9} alt="A Class" className="rounded-circle w-50"/>
                     </div>
                     <h2 className="text-center">
-                        A Class
+                        B Class
                     </h2>
                     <p>
-                        A Class e tipit mercedes-benz është një makinë kompakte me pesë dyer e prodhuar nga prodhuesi gjerman i makinave Mercedes-Benz.
+                        B Class e tipit mercedes-benz eshte nje makine kompakte me pese dyer me nje dizajn monovolumeni te prodhuar nga prodhuesi gjerman i makinave Mercedes-Benz.
                     </p>
                     <div className="d-flex justify-content-center">
                         <Button variant="secondary">Order</Button>
