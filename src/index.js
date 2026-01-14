@@ -13,10 +13,12 @@ import '@coreui/icons/css/all.min.css'
 
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Shop from './shop';
+import Pricing from './pricing';
 
 const router = createBrowserRouter([
   { path:"/", element:<Home /> },
   { path:"/shop", element:<Shop /> },
+  { path:"/pricing", element:<Pricing /> },
 ]); 
 
 
